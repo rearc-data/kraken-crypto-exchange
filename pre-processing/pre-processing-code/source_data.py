@@ -23,7 +23,7 @@ def data_to_s3(frmt):
     else:
         data_set_name = os.environ['DATA_SET_NAME']
         filename = data_set_name + frmt
-        file_location = '/tmp/' + filename + '.csv'
+        file_location = '/tmp/' + filename
 
         with open(file_location, 'wb') as f:
             f.write(response.read())
