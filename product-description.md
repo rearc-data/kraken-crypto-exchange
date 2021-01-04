@@ -1,6 +1,8 @@
 Kraken Cryptocurrency Exchange | Crypto Data Download
 ========================= 
 
+**Update(1/04/2021): The Kraken Cryptocurrency Exchange product is currently archived and will not have any updated revisions for the foreseeable future.**
+
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/kraken-crypto-exchange](https://github.com/rearc-data/kraken-crypto-exchange).
 
 ## Main Overview
